@@ -34,11 +34,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shree2698/pro-ui.git"
+    "url": "git+https://github.com/shree2698/soureeui.git"
   },
-  "homepage": "https://github.com/shree2698/pro-ui#readme",
+  "homepage": "https://github.com/shree2698/soureeui#readme",
   "bugs": {
-    "url": "https://github.com/shree2698/pro-ui/issues"
+    "url": "https://github.com/shree2698/soureeui/issues"
   },
   "license": "MIT",
   "scripts": {

@@ -137,10 +137,10 @@ works with `--ai codex` as-is.
 Clone the repository and copy the files by hand. For Claude Code:
 
 ```bash
-git clone https://github.com/shree2698/pro-ui.git
+git clone https://github.com/shree2698/soureeui.git
 mkdir -p .claude/skills/soureeui
-cp pro-ui/SKILL.md .claude/skills/soureeui/
-cp -r pro-ui/references pro-ui/templates .claude/skills/soureeui/
+cp soureeui/SKILL.md .claude/skills/soureeui/
+cp -r soureeui/references soureeui/templates .claude/skills/soureeui/
 ```
 
 For any other agent, copy `AGENTS.md`, `references/`, and `templates/` into `.soureeui/`
